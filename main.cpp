@@ -36,7 +36,7 @@ void render_table_header() {
     std::cout << std::endl;
     std::cout << "  -------------------------------------------" << std::endl;
     std::cout << "  | Falling Time (s) | Falling Distance (m) |" << std::endl;
-    std::cout << "  |------------------|----------------------|" << std::endl;
+    std::cout << "  -------------------------------------------" << std::endl;
 }
 
 void render_table_row(const int falling_time) {
