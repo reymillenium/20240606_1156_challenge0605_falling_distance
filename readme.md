@@ -10,9 +10,9 @@ When an object is falling because of gravity, the following formula can be used 
 
 d = 1/2 𝑔 𝑡<sup>2</sup>
 
-The variables in the formula are as follows:_d_is the distance in meters,_g_is 9.8, and_t_is the amount of time, in seconds, that the object has been falling.
+The variables in the formula are as follows: _d_ is the distance in meters, _g_ is 9.8 m/s<sup>2</sup>, and _t_ is the amount of time, in seconds, that the object has been falling.
 
-Write a function named`fallingDistance`that accepts an object’s falling time (in seconds) as an argument. The function should return the distance, in meters, that the object has fallen during that time interval. Write a program that demonstrates the function by calling it in a loop that passes the
+Write a function named `fallingDistance` that accepts an object’s falling time (in seconds) as an argument. The function should return the distance, in meters, that the object has fallen during that time interval. Write a program that demonstrates the function by calling it in a loop that passes the
 values 1 through 10 as arguments and displays the return value.
 
 ## Execution from the Terminal (Alternative way without an IDE):
